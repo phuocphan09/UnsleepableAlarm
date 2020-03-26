@@ -1,5 +1,7 @@
 # The Unsleepable Alarm
-The Unsleepable Alarm Project - Sick Name - Creating and Making UG1070 - FUV
+The Unsleepable Alarm Project - Sick Name - Creating and Making UG1070 - FUV.
+An alarm that keeps track of infrared radiation movement aiming to help heavy-sleepers get out of bed on time.
+
 @author Phan Canh Minh Phuoc.
 
 Remember to include all four (4) libraries in /Libraries before uploading the provided source code to the board.
