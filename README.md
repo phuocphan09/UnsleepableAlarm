@@ -1,8 +1,8 @@
 # UnsleepableAlarm
 The Unsleepable Alarm Project - Sick Name - Creating and Making UG1070 - FUV
 
-The following instruction is applied for the Arduino UNO and is guaranteed to work with the provided source code.
-@author Phan Canh Minh Phuoc
+The following installation instruction is applied for the Arduino UNO and is guaranteed to work with the provided source code.
+@author Phan Canh Minh Phuoc.
 
 1. PIR Sensor HC-SR501 - Digital No.5
 2. Temperature and Humidity Sensor DHT-11 - Digital No.6
